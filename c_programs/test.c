@@ -1,4 +1,4 @@
 #include <stdio.h>
 
-printf "POLL SCM check"
+printf "POLL SCM check2"
 
