@@ -8,9 +8,9 @@ int sumof2no()
 
     scanf("%d %d", &firstNumber, &secondNumber);
 
-    sum = firstNumber + secondNumber;
+    sum = firstNumber - secondNumber;
 
-    printf("Sum of %d and %d is %d\n", firstNumber, secondNumber, sum);
+    printf("Difference of %d and %d is %d\n", firstNumber, secondNumber, sum);
 
     return 0;
 }
